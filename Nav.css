@@ -1,0 +1,15 @@
+#container{
+    height: 50px;
+    width: 100%;
+    border: 1px solid lightseagreen;
+    flex-direction: row;
+    background-color: pink;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+#container div{
+   height: 50px;
+   width: 80px;
+   align-content: center;
+}
